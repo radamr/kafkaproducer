@@ -11,7 +11,7 @@
 	<groupId>com.adamrybicki</groupId>
 	<artifactId>kafkaproducer</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>kafkaproducer</name>
 	<description>The sample project to produce kafka messages</description>
 	<properties>
